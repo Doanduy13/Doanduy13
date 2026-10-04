@@ -43,6 +43,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
+
 <br>
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=duydoan1310&theme=dark)](https://codeforces.com/profile/duydoan1310)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Duydoan13?theme=dark&ext=activity)](https://leetcode.com/u/Duydoan13/)
