@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **Vibe coding, data**
 
-- 💬 Ask me about **Python, AI**
+- 💬 Ask me about **Data Science, Artificial Intelligence, building custom keyboards, or let's have a match in PES (efootball)**
 
 - 📫 How to reach me **doanducduy12345@gmail.com**
 
