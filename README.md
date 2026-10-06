@@ -1,31 +1,25 @@
 <table width="100%">
   <tr>
-    <!-- CỘT TRÁI: Ảnh ASCII -->
     <td valign="top" width="45%">
       <div align="center">
         <h3><code>duy@github ~ $ whoami</code></h3>
         <img src="./avi-ascii.svg" width="100%" />
       </div>
     </td>
-    
-    <!-- CỘT PHẢI: Thông tin cá nhân & Kỹ năng -->
     <td valign="top" width="55%">
       <h1>Hi 👋, I'm Duy Đoàn Đức</h1>
       <h3>Using AI more every day</h3>
-      
       <ul>
         <li>🌱 I’m currently learning <b>Vibe coding, data</b></li>
         <li>💬 Ask me about <b>Python, AI</b></li>
         <li>📫 How to reach me <b>doanducduy12345@gmail.com</b></li>
       </ul>
-      
       <h3>Connect with me:</h3>
       <p>
         <a href="https://www.linkedin.com/in/duy-%C4%91o%C3%A0n-%C4%91%E1%BB%A9c-0730a7391/?isSelfProfile=true" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
         <a href="https://www.facebook.com/doanduy.1310" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
         <a href="https://github.com/Duydoan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
       </p>
-      
       <h3>Languages and Tools:</h3>
       <p>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
