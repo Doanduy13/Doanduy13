@@ -7,11 +7,11 @@
       </div>
     </td>
     <td valign="top" width="55%">
-      <h1>Hi 👋, I'm Duy Đoàn Đức</h1>
+      <h1>Hi 👋, I'm Duy Đoàn Đức (Eren)</h1>
       <h3>Using AI more every day</h3>
       <ul>
         <li>🌱 I’m currently learning <b>Vibe coding, data</b></li>
-        <li>💬 Ask me about <b>Python, AI</b></li>
+        <li>💬 Ask me about <b>Coding strictly on good vibes and designing scalable systems</b></li>
         <li>📫 How to reach me <b>doanducduy12345@gmail.com</b></li>
       </ul>
       <h3>Connect with me:</h3>
