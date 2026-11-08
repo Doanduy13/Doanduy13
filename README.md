@@ -47,6 +47,6 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/doanducduy12345" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?handle=doanducduy12345&theme=dark" alt="Codeforces Stats" />
+    <img src="https://cf-stats.vercel.app/api?handle=doanducduy12345&theme=dark" alt="Codeforces Stats" />
   </a>
 </p>
