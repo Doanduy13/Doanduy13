@@ -43,10 +43,6 @@
     </td>
   </tr>
 </table>
-<h3>🧠 Codeforces Stats</h3>
-
 <p align="center">
-  <a href="https://codeforces.com/profile/doanducduy12345" target="_blank">
-    <img src="https://cf-stats.vercel.app/api?handle=doanducduy12345&theme=dark" alt="Codeforces Stats" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doanduy13&bg_color=141414&color=ffffff&line=FFA116&point=00B8A3&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </p>
