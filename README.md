@@ -44,10 +44,10 @@
   </tr>
 </table>
 
-<h3 align="center"> Competitive Programming & Stats</h3>
+<h3>🧠 Codeforces Stats</h3>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/doanducduy12345" target="_blank" rel="noreferrer">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?handle=doanducduy12345&theme=tokyonight&force_username=true" alt="Codeforces Stats" height="180" />
+  <a href="https://codeforces.com/profile/doanducduy12345" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?handle=doanducduy12345&force_username=true&bg_color=141414&title_color=ffffff&text_color=d4d4d4&icon_color=ffa116&border_color=2c2c2c" alt="Codeforces Stats" width="500" />
   </a>
 </p>
