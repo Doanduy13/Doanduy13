@@ -43,11 +43,10 @@
     </td>
   </tr>
 </table>
-
 <h3>🧠 Codeforces Stats</h3>
 
 <p align="center">
   <a href="https://codeforces.com/profile/doanducduy12345" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?handle=doanducduy12345&force_username=true&bg_color=141414&title_color=ffffff&text_color=d4d4d4&icon_color=ffa116&border_color=2c2c2c" alt="Codeforces Stats" width="500" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?handle=doanducduy12345&theme=dark" alt="Codeforces Stats" />
   </a>
 </p>
