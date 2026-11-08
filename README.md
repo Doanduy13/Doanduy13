@@ -43,6 +43,3 @@
     </td>
   </tr>
 </table>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doanduy13&bg_color=141414&color=ffffff&line=FFA116&point=00B8A3&area=true&hide_border=true" width="95%" alt="Activity Graph" />
-</p>
